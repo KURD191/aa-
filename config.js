@@ -1,6 +1,6 @@
 // ===== Conifg Part
-exports.prefix = "!";//keep any prefix 
-exports.token = "ODYxODg2OTEyNjE2OTg4Njcy.YOQUvQ.dGjNHz80qt46ZOjvxqAZdpUqjsM"; //Fill your token by going to https://discord.devs so let fill
+exports.prefix = "¿";//keep any prefix 
+exports.token = "OTYzOTkzNDUzMDIzMzM0NDIw.YleK3Q.AfOIWUdjqHqRw1vQ-Fv4KLrBo5U"; //Fill your token by going to https://discord.devs so let fill
 exports.devs = [];
 //turn on server intent 
 //run the project
